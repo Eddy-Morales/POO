@@ -13,6 +13,9 @@ public class Main {
             System.out.println("nombre = " + nombre);
 
         }
+        Integer a=1;
+        Integer b=3;
+        System.out.println(a+b);
     }
 }
 // cambios realizados
